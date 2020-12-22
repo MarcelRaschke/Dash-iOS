@@ -1,3 +1,7 @@
+# Discontinued
+
+Dash for iOS was [discontinued](https://blog.kapeli.com/goodbye-dash-for-ios). Please check out [Dash for macOS](https://kapeli.com/dash) instead.
+
 # [Dash for iOS](https://kapeli.com/dash_ios)
 
 Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets.
